@@ -1,0 +1,151 @@
+.game {
+  text-align: center;
+  background-image:url(gamebg.jpg);
+  background-size: 100%;
+  }
+.title2
+{
+  font-family: 'Happy Monkey', cursive;
+
+  font-size: 1.9rem;
+}
+.title1
+{
+  font-family: 'Happy Monkey', cursive;
+  padding-left: 50px;
+  font-size: 1.9rem;
+}
+
+.inst
+{
+
+  background-image: url(gamebg.jpg);
+  background-size: 100%;
+
+}
+.ins2
+{
+  font-family: 'Happy Monkey', cursive;
+  line-height:2.3;
+color: yellow;
+padding-left: 220px;
+padding-right: 125px;
+text-align: left;
+font-size: 1.4rem;
+}
+.ins
+{
+  font-family: 'Happy Monkey', cursive;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.homepage{
+background-image: url("momebg.jpg");
+background-size: 100%;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1.5rem;
+  margin:  2%;
+  color: yellow;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+  top-margin:5px;
+
+}
+
+.container1
+{
+
+  padding-top: 0px;
+  padding-left: 65px;
+  font-size:2rem;
+  color:yellow;
+
+}
+.container2
+{
+  padding-top :90px;
+
+  padding-left: 0px;
+  font-size:7rem;
+  color:yellow;
+}
+
+
+.btn
+{
+  top-margin:5px;
+
+  margin: 0px;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 5px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+
+
+.red {
+  background-image:url(bulbasor.jpg);
+  background-size: 132%;
+
+}
+
+.green {
+  background-image:url(charmendor.jpg);
+  background-size: 100%;
+}
+
+.blue {
+  background-image :url(pikachu.jpg);
+  background-size:125%;
+}
+
+.yellow {
+  background-image :url(gigglypuff.jpg);
+  background-size: 125%;
+}
+#pink
+{
+  background-image :url(squirtle.jpg);
+  background-size: 177%;
+}
+#white
+{
+  background-image: url(meowth.jpg);
+  background-size: 141%;
+}
+#purple
+{
+  background-image: url(bg1.jpg);
+  background-size: 122%;
+
+}
+#orange
+{
+  background-image: url(last1.jpg);
+  background-size: 135%;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+a {
+  color: yellow;
+}
+a:visited {
+  color: yellow;
+}
